@@ -1,2 +1,1 @@
-# goit-markup-hw-02
-Работа с css оформление цвета и текста.
+# goit-markup-hw-01
