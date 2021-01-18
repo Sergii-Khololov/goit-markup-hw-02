@@ -1,1 +1,5 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
+
+Работа с css. Oформление цвета и текста.
+
+> > > > > > > 19e10e8a97434be44c05cc836b3d40a87799b8c4
